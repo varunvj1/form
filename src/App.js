@@ -1,9 +1,7 @@
 import React, { Component } from "react";
-// import logo from './logo.svg';
 import { Button, Form, FormGroup, Label, Input } from "reactstrap";
 import { FacebookLoginButton } from "react-social-login-buttons";
 import "./App.css";
-import { from } from "rxjs";
 
 class App extends Component {
   render() {
